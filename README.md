@@ -1,2 +1,3 @@
 # hello-world
-Practice repository
+
+I've used Git before but am new to Github.
